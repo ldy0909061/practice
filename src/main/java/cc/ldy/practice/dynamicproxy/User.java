@@ -6,4 +6,8 @@ package cc.ldy.practice.dynamicproxy;
 public interface User {
     void printName();
     void printAge();
+
+
+
+    
 }
